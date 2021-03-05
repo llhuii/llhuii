@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api?username=llhuii&show_icons=true" alt="logo" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llhuii" alt="logo" align="center"  />
+
+
 ### Hi there 👋
 
 <!--
